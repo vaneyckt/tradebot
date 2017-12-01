@@ -1,0 +1,10 @@
+---
+'331860':
+  :ticker: V
+  :exchange: NYSE
+  :reserve_size: 20
+  :min_cutoff: 109
+  :max_cutoff: 111
+  :buy_constant: 0.996
+  :sell_constant: 1.004
+  :enabled: true
